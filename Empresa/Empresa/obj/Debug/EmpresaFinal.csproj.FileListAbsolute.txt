@@ -1,0 +1,13 @@
+c:\users\rebeca\documents\visual studio 2017\Projects\EmpresaFinal\EmpresaFinal\obj\Debug\EmpresaFinal.csprojResolveAssemblyReference.cache
+c:\users\rebeca\documents\visual studio 2017\Projects\EmpresaFinal\EmpresaFinal\bin\Debug\EmpresaFinal.exe.config
+c:\users\rebeca\documents\visual studio 2017\Projects\EmpresaFinal\EmpresaFinal\bin\Debug\EmpresaFinal.exe
+c:\users\rebeca\documents\visual studio 2017\Projects\EmpresaFinal\EmpresaFinal\bin\Debug\EmpresaFinal.pdb
+c:\users\rebeca\documents\visual studio 2017\Projects\EmpresaFinal\EmpresaFinal\obj\Debug\EmpresaFinal.exe
+c:\users\rebeca\documents\visual studio 2017\Projects\EmpresaFinal\EmpresaFinal\obj\Debug\EmpresaFinal.pdb
+D:\Documents\IFBA\3 ano\LPII\EmpresaFinal\EmpresaFinal\bin\Debug\EmpresaFinal.exe.config
+D:\Documents\IFBA\3 ano\LPII\EmpresaFinal\EmpresaFinal\bin\Debug\EmpresaFinal.exe
+D:\Documents\IFBA\3 ano\LPII\EmpresaFinal\EmpresaFinal\bin\Debug\EmpresaFinal.pdb
+D:\Documents\IFBA\3 ano\LPII\EmpresaFinal\EmpresaFinal\obj\Debug\EmpresaFinal.csprojResolveAssemblyReference.cache
+D:\Documents\IFBA\3 ano\LPII\EmpresaFinal\EmpresaFinal\obj\Debug\EmpresaFinal.csproj.CoreCompileInputs.cache
+D:\Documents\IFBA\3 ano\LPII\EmpresaFinal\EmpresaFinal\obj\Debug\EmpresaFinal.exe
+D:\Documents\IFBA\3 ano\LPII\EmpresaFinal\EmpresaFinal\obj\Debug\EmpresaFinal.pdb
